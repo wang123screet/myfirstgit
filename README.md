@@ -6,6 +6,12 @@
 
 import  *  from ./../test.vue
 
+ss
+
+sss
+
+sssssss
+
 ```
 
 
